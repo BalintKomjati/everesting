@@ -3,4 +3,4 @@
 
 [Click here to view the visualisation](https://balintkomjati.github.io/everesting/)  
 
-![](https://raw.github.com/balintkomjati/elections-2022-hu/master/img/widgets_wide.PNG)  
+![](https://raw.github.com/balintkomjati/everesting/master/hchart.png)  
