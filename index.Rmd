@@ -1,0 +1,43 @@
+---
+title: "My Everesting Journey"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    vertical_layout: scroll
+---
+
+<style type="text/css">     
+.navbar {
+  background-color:#2a2a2b;
+  border-color:#2a2a2b;
+}
+</style>   
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+source('everesting.R') 
+```
+  
+> <font size = "3px">
+The concept of [Everesting](https://www.everesting.cc/) is to pick any hill, anywhere in the world and complete repeats of it in a single activity until you climb 8,848m – the equivalent height of Mt Everest.⛰️</font>    
+> <font size = "3px">
+On 03.06.2023 I finished [my first everesting](https://www.strava.com/activities/9198965017/overview) by riding
+my MTB up and down 42 times to the iconic János-hill of Budapest. I am the first rider from Hungary
+to accomplish this feat on an off-road track earning the first [Soil Badge](https://hof.everesting.com/hall-of-fame/hall-of-fame-details?uuid=a226dd85-6880-4e18-b762-1ae4717c836a&mt=0) for my country.💣💥</font>    
+> <font size = "3px">
+After each turn I note down how I feel so to craft the following story-telling visualization afterwards:</font>  
+    
+row {data-height=400}
+-----------------------------------------------------------------------
+
+### All {.no-padding .no-title}
+
+```{r}
+strmgrph
+```
+
+
+row {data-height=50, .no-padding}
+-----------------------------------------------------------------------
+
+> <font size = "2px"> Created by: [Komjáti Bálint](https://www.balint-komjati.hu/) </font>
