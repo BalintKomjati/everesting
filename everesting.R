@@ -109,6 +109,14 @@ hchart(rl,
   hc_title(text = "<b>My Everesting Journey</b>") |>
   hc_subtitle(text = "The thicker the stream the more difficult it was to carry on with my ride") |>
   hc_credits(enabled = TRUE, text = "https://balint-komjati.hu/") |>
+  hc_annotations(
+    list(
+      labels = list(
+        list(point = list(x = 8, y = 3, xAxis = 0, yAxis = 0), 
+             text = "<i>Tap the streams to show the story blocks</i>",
+             backgroundColor = "rgba(0, 0, 0, 0)",
+             borderColor = "#707073")
+        ))) |>
   hc_add_theme(thm) -> strmgrph
 
 strmgrph

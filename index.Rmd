@@ -22,10 +22,9 @@ source('everesting.R')
 The concept of [Everesting](https://www.everesting.cc/) is to pick any hill, anywhere in the world and complete repeats of it in a single activity until you climb 8,848m – the equivalent height of Mt Everest.⛰️</font>    
 > <font size = "3px">
 On 03.06.2023 I finished [my first everesting](https://www.strava.com/activities/9198965017/overview) by riding
-my MTB up and down 42 times to the iconic János-hill of Budapest. I am the first rider from Hungary
-to accomplish this feat on an off-road track earning the first [Soil Badge](https://hof.everesting.com/hall-of-fame/hall-of-fame-details?uuid=a226dd85-6880-4e18-b762-1ae4717c836a&mt=0) for my country.💣💥</font>    
+my MTB up and down 42 times to the iconic János-hill of Budapest. It took me 27 hrs (non-stop) to finish. I am the first rider from Hungary to accomplish this feat on an off-road track earning the first [Soil Badge](https://hof.everesting.com/hall-of-fame/hall-of-fame-details?uuid=a226dd85-6880-4e18-b762-1ae4717c836a&mt=0) for my country.💣💥</font>    
 > <font size = "3px">
-After each turn I note down how I feel so to craft the following story-telling visualization afterwards:</font>  
+After each turn I note down how I feel on a scale of 0-9 so to craft the following story-telling visualization afterwards:</font>  
     
 row {data-height=400}
 -----------------------------------------------------------------------
